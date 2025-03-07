@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Река Дунав</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #003366;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+        .content {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .list {
+            margin-left: 20px;
+        }
+        footer {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Река Дунав</h1>
+    <p>Втората по дължина река в Европа</p>
+</header>
+
+<section>
+    <h2>Основна информация</h2>
+    <div class="content">
+        <p>Дунав е втората по дължина река в Европа, след Волга. Това е единствената голяма река в континента, която тече от запад на изток и се влива в Черно море.</p>
+    </div>
+</section>
+
+<section>
+    <h2>Държави, през които преминава Дунав</h2>
+    <div class="content">
+        <p>Дунав преминава през 10 държави:</p>
+        <ul class="list">
+            <li>Германия</li>
+            <li>Австрия</li>
+            <li>Словакия</li>
+            <li>Унгария</li>
+            <li>Хърватия</li>
+            <li>Сърбия</li>
+            <li>България</li>
+            <li>Румъния</li>
+            <li>Молдова</li>
+            <li>Украйна</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>Водосборен басейн</h2>
+    <div class="content">
+        <p>Водосборният басейн на Дунав се разпростира и върху териториите на 9 други държави:</p>
+        <ul class="list">
+            <li>Швейцария</li>
+            <li>Италия</li>
+            <li>Чехия</li>
+            <li>Полша</li>
+            <li>Словения</li>
+            <li>Босна и Херцеговина</li>
+            <li>Черна гора</li>
+            <li>Албания</li>
+            <li>Косово</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>Дължина и площ на водосборния басейн</h2>
+    <div class="content">
+        <p>Дължината на Дунав е 2852 км, а площта на водосборния му басейн е 817 000 km².</p>
+    </div>
+</section>
+
+<footer>
+    <p>Информация за реката Дунав. Всички права запазени.</p>
+</footer>
+
+</body>
+</html>
